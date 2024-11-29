@@ -1,10 +1,10 @@
 #include <IRremote.h>
 
 // Oled Display Connection
-VCC - 5V
-GND - GND
-SCL - A5
-SDA - A4
+// VCC - 5V
+// GND - GND
+// SCL - A5
+// SDA - A4
 
 // Definície pre IR prijímač a vysielač
 #define RECV_PIN 11 // Pin, kde je pripojený IR prijímač
