@@ -17,4 +17,4 @@ Arduino code to force TV to off like IR LED Blaster or just TV-B Gone
 
 # IR LED TV-B Gone code
 - IR Transmit LED - D4
-## Or you can make other
+## Or you can make other when it is too weak or what ...
